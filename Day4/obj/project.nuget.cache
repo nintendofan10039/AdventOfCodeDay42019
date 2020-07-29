@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qv2MtkBudZM4PJ7qExP0OdD97Lfikw4rYkM9KZLaICJZws2UU4tcC1ZV697FBxxcQHqRw+Q98kvZUlW/OsrmVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mykola\\source\\repos\\Day4\\Day4\\Day4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mykola\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
